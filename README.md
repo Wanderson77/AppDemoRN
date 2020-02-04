@@ -1,4 +1,4 @@
-# Nome do produto
+# App Demo
 > Descrição curta sobre o que seu projeto faz.
 
 [![NPM Version][npm-image]][npm-url]
