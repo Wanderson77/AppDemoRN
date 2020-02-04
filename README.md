@@ -1,5 +1,5 @@
 # App Demo
-> Descrição curta sobre o que seu projeto faz.
+> Este APP tem a função de aproximar e facilitar ....
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
