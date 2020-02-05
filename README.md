@@ -7,7 +7,7 @@
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-![App Demo](/src/assets/home.png "App Demo")
+![App Demo](/src/assets/home_demo.png "App Demo")
 
 ## Instalação
 
